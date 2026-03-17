@@ -1,2 +1,2 @@
 # CloudStackApi
-A complete backend with authentication,Authorization,with ratelimiting,logger and redis implementation.Docker and Nginx configured.
+A complete backend with authentication,Authorization,with ratelimiting,logger and redis implementation.Docker and Nginx configured for cloud hosting.
